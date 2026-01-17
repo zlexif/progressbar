@@ -2,6 +2,10 @@
 
 Revamp of default qb-core [progressbar](https://github.com/qbcore-framework/progressbar) 
 
+# Preview
+
+https://streamable.com/y7wglj
+
 # Usage
 
 ## QB-Core Functions
